@@ -8,7 +8,7 @@ Works on Windows XP, Windows 7, Windows 10 x32 and x64 alike.<br>
 <br>
 Press ESC to end & release (onscreen instructions).<br>
 <br>
-<b>Default timeout is set to approx 3.25 minutes (onscreen instructions).</b> <br>
+<b>Default timeout is set to approx 3.25 minutes</b> (onscreen instructions). <br>
 <br>
 # USECASE
 If you just want to double click to trap your mouse (input device) to, i.e. pysically clean it.<br>
