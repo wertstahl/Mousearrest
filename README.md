@@ -1,5 +1,5 @@
 # Mousetrap
-<i> ```json keywords: temporarily lock mouse, trap mouse, lock keyboard, no input, no movement  </i>
+<i><b> keywords: temporarily lock mouse, trap mouse, lock keyboard, no input, no movement  </b></i>
 <br>
 <br>
 Trap the mouse pointer and buttons in a Window, temporarily.<br>
