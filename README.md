@@ -22,6 +22,13 @@ Blitz3D 1.108 Syntax -- Written in IDEal 0.8.94<br>
 <br>
 <br>
 <br>
+# BINARY/WIN32 EXECUTABLE<br>
+Precompiled executable is available for download<br>
+<br>
+<br>
+# SUPPORT<br>
+No support.<br>
+<br>
 # PREREQUISITES
 <i><br>
 Blitz3d: https://blitzresearch.itch.io/blitz3d <br>
