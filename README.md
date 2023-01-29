@@ -1,5 +1,5 @@
 # Mousetrap
-<i>keywords: temporarily lock mouse, trap mouse, lock keyboard, no input, no movement </i>
+<i> <color:"blue"> keywords: temporarily lock mouse, trap mouse, lock keyboard, no input, no movement <color:"white"> </i>
 <br>
 <br>
 Trap the mouse pointer and buttons in a Window, temporarily.<br>
