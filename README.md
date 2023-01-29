@@ -1,11 +1,11 @@
 # Mousetrap
-Trap the Mouse Pointer plus Buttons in a Window to (for example) pysically clean your Mouse or Keyboard (perhaps with denatured alcohol..).<br>
+Trap the Mouse Pointer plus Buttons in a Window.<br>
 Works on Windows XP, Windows 7, Windows 10 x32 and x64 alike.<br>
 <br>
 Press ESC to end & release.<br>
 <br>
 # USECASE
-If you just want to double click to trap and clean your mouse.<br>
+If you just want to double click to trap and your mouse to (for example) pysically clean it ( perhaps with denatured alcohol... ).<br>
 Actually also traps your keyboard except for the ESCape key.<br>
 <br>
 <b><i>        Happy cleaning! </i></b><br>
