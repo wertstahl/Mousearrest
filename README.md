@@ -27,7 +27,7 @@ Precompiled executable is available for download<br>
 <br>
 <br>
 # SUPPORT<br>
-No support.<br>
+No support. No exceptions.<br>
 <br>
 # PREREQUISITES
 <i><br>
