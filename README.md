@@ -6,8 +6,8 @@ Press ESC to end & release.<br>
 Also there is a default timeout of approx 3.25 minutes. <br>
 <br>
 # USECASE
-If you just want to double click to trap and your mouse to (for example) pysically clean it ( perhaps with denatured alcohol... ).<br>
-Actually also traps the basic layout of your keyboard - except for the ESCape key (Win, ALT+Tab and special shortcuts like that are not trapped).<br>
+If you just want to double click to trap and your mouse to (for example) pysically clean it.<br>
+Actually also traps the basic input of your keyboard - except for the ESCape key (Win, ALT+Tab and special shortcuts like that are not trapped).<br>
 <br>
 <b><i>        Happy cleaning! </i></b><br>
 <br>
