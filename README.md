@@ -5,8 +5,8 @@ Trap the Mouse Pointer in a Window to (for example) clean your Mouse or Keyboard
 Press ESC to end & release
 
 # USECASE
-If you just want to double click to trap and clean your mouse,
-actually also traps your keyboard except for the escape key
+If you just want to double click to trap and clean your mouse.
+Actually also traps your keyboard except for the ESCape key.
 
                     Happy cleaning!
 
