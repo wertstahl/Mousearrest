@@ -21,6 +21,8 @@ Actually also traps the basic input of your keyboard - except for the ESCape key
 Blitz3D 1.108 Syntax -- Written in IDEal 0.8.94<br>
 <br>
 <br>
+<br>
+# PREREQUISITES
 <i><br>
 Blitz3d: https://blitzresearch.itch.io/blitz3d <br>
 IDEal IDE: https://web.archive.org/web/20070704181040/http://www.fungamesfactory.com/download.php?get=IDEalSetup_0.8.87.exe <br>
