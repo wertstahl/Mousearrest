@@ -8,7 +8,7 @@ Press ESC to end & release
 If you just want to double click to trap and clean your mouse,
 actually also traps your keyboard except for the escape key
 
-                    happy cleaning
+                    Happy cleaning!
 
 (c)1/2003 by WS/Genesis*Project
 
