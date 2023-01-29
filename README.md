@@ -7,7 +7,8 @@ Trap the mouse pointer and buttons in a Window, temporarily.<br>
 Works on Windows XP, Windows 7, Windows 10 x32 and x64 alike.<br>
 <br>
 Press ESC to end & release.<br>
-Also there is a default timeout of approx 3.25 minutes. <br>
+<br>
+<b>Default timeout is set to approx 3.25 minutes.</b> <br>
 <br>
 # USECASE
 If you just want to double click to trap your mouse (input device) to, i.e. pysically clean it.<br>
