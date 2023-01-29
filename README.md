@@ -1,5 +1,5 @@
 # Mousetrap
-Trap the Mouse Pointer in a Window to (for example) clean your Mouse or Keyboard.<br>
+Trap the Mouse Pointer in a Window to (for example) pysically clean your Mouse or Keyboard (perhaps with denatured alcohol..).<br>
 Works on Windows XP, Windows 7, Windows 10 x32 and x64 alike.<br>
 <br>
 Press ESC to end & release.<br>
