@@ -1,8 +1,8 @@
-# Mousetrap
+# Mousearrest
 <i><b> keywords: temporarily lock mouse, trap mouse, lock keyboard, no input, no movement  </b></i>
 <br>
 <br>
-Trap the mouse pointer and buttons in a Window, temporarily.<br>
+Arrest the mouse pointer and buttons in a Window, temporarily.<br>
 <br>
 Works on Windows XP, Windows 7, Windows 10 x32 and x64 alike.<br>
 <br>
