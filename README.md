@@ -32,6 +32,8 @@ There is no x64 Win executable for real, but the x32 version works just fine eve
 # SUPPORT<br>
 No shoes, no shirt, no support. No exceptions.<br>
 <br>
+# MALWARE
+you can easily build your own version, any alleged suspicious activity that is being detected by windows is bs.<br>
 # PREREQUISITES
 <i><br>
 Blitz3d: https://blitzresearch.itch.io/blitz3d <br>
