@@ -22,7 +22,7 @@ Blitz3D 1.108 Syntax -- Written in IDEal 0.8.94<br>
 <br>
 <br>
 <br>
-# BINARY/x32 (and X64) EXECUTABLE<br>
+# BINARY/(Win x32 (and x64)) EXECUTABLE<br>
 Precompiled binary is provided for download in /executable <br>
 <br>
 <br>
