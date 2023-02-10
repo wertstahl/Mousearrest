@@ -26,7 +26,7 @@ Blitz3D 1.108 Syntax -- Written in IDEal 0.8.94 (Actually, ChatGPT3 helped a lit
 Precompiled .exe is provided for download in /executable <br>
 There is no x64 Win executable for real, but the x32 version works just fine even on x64 Windows 10. <br>
 --> Mousearrest_win32.exe          -- uses Vblank in the mouse polling loop and leaves some freedom of movement. <br>
---> Mousearrest_novblank_win32.exe -- uses no Vblank and strictly locks the mouse. <br>
+--> Mousearrest_novblank_win32.exe -- uses no Vblank and strictly locks the mouse, timer might go fast. <br>
 <br>
 <br>
 # SUPPORT<br>
