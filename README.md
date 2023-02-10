@@ -16,7 +16,7 @@ Actually also traps the basic input of your keyboard - except for the ESCape key
 <br>
 <b><i>        Happy cleaning! </i></b><br>
 <br>
-(c)1/2003 by WS/Genesis*Project<br>
+(c)1/2023 by WS/Genesis*Project<br>
 <br>
 Blitz3D 1.108 Syntax -- Written in IDEal 0.8.94<br>
 <br>
