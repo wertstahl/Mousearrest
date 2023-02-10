@@ -18,7 +18,7 @@ Actually also traps the basic input of your keyboard - except for the ESCape key
 <br>
 (c)1/2023 by WS/Genesis*Project<br>
 <br>
-Blitz3D 1.108 Syntax -- Written in IDEal 0.8.94<br>
+Blitz3D 1.108 Syntax -- Written in IDEal 0.8.94 (Actually, ChatGPT3 helped a little to code this)<br>
 <br>
 <br>
 <br>
